@@ -14,6 +14,7 @@ function DogPics() {
         setImages(data.message);
       });
   });
+  
 
   console.log("render");
 
